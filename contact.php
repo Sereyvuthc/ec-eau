@@ -40,7 +40,7 @@
           </div>
         </div>
         <div class="row block-9">
-          <div class="col-md-6 pr-md-5">
+          <div class="col-md-12 pr-md-5">
             <form action="#">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Your Name">
@@ -60,8 +60,6 @@
             </form>
 
           </div>
-
-          <div class="col-md-6" id="map"></div>
         </div>
       </div>
     </section>
